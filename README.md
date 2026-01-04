@@ -1,13 +1,5 @@
-# Historical Mysteries — Frontend Showcase
+# Historical Mysteries — Frontend
 
-Scaffolded Vite + React (TypeScript) project converted from a single JSX file. Uses Tailwind via CDN for quick styling.
+<img width="1832" height="874" alt="hist-mist" src="https://github.com/user-attachments/assets/ec25fb11-db37-4bfc-abea-40eb988f9849" />
 
-Quick start:
 
-```bash
-cd Desktop/Downloads/historical-mysteries-app
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
